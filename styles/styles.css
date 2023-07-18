@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+title::before {
+    content: "Gamer";
+ padding-left: 5px;
+    font-size: 20px;
+  }
